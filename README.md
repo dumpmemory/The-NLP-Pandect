@@ -500,7 +500,6 @@ Additionally, there are two more components that are not as prevalent for NLP an
 * ⭐ [MLRun](https://github.com/mlrun/mlrun) - Machine Learning automation and tracking [GitHub, 1598 stars]
 * 🔱 [DataRobot MLOps](https://www.datarobot.com/platform/mlops/) - DataRobot MLOps provides a center of excellence for your production AI
 * 🔱 [Cortex](https://www.cortex.dev/) - containers as a service on AWS [Paid Service]
-* 🔱 [Fiddler AI](https://fiddler.ai) - All-in-one ML and LLM observability. Fastest LLM Guardrails. 
 
 ##### Model Centric
 * 🔱 [Algorithmia](https://algorithmia.com/) - minimize risk with advanced reporting and enterprise-grade security and governance across all data, models, and infrastructure [Paid Service]
