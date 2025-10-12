@@ -55,6 +55,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 * 🗂️ [Brainsources for #NLP enthusiasts](https://www.notion.so/634eba1a37d34e2baec1bb574a8a5482) by [Philip Vollet](https://www.linkedin.com/in/philipvollet/)
 * ⭐ [Awesome AI/ML/DL - NLP Section](https://github.com/neomatrix369/awesome-ai-ml-dl/tree/master/natural-language-processing#natural-language-processing-nlp) [GitHub, 1590 stars]
 * 🗂️ [NLP articles](https://devopedia.org/site-map/browse-articles/natural+language+processing) by [Devopedia](https://devopedia.org)
+* ⭐ [Awesome LLM Apps](https://github.com/Shubhamsaboo/awesome-llm-apps) [GitHub, 71800 stars]
 
 #### NLP Conferences, Paper Summaries and Paper Compendiums:
 ##### Papers and Paper Summaries
@@ -88,6 +89,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 * ⭐ [Awesome Embedding Models](https://github.com/Hironsan/awesome-embedding-models) by [Hironsan](https://github.com/Hironsan) [GitHub, 1805 stars]
 * ⭐ [Awesome list of Sentence Embeddings](https://github.com/Separius/awesome-sentence-embedding) by [Separius](https://github.com/Separius) [GitHub, 2277 stars]
 * ⭐ [Awesome BERT](https://github.com/Jiakui/awesome-bert) by [Jiakui](https://github.com/Jiakui) [GitHub, 1852 stars]
+* ⭐ [FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding/tree/master) - Retrieval and Retrieval-augmented LLMs [GitHub, 10700 stars]
 
 #### Notebooks, Scripts and Repositories
 * ⭐ [The Super Duper NLP Repo](https://notebooks.quantumstat.com) [Website, 2020]
@@ -217,6 +219,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 * ⭐ [CrossNER](https://github.com/zliucr/CrossNER) - CrossNER: Evaluating Cross-Domain Named Entity Recognition
 * ⭐ [MultiNLI](https://cims.nyu.edu/~sbowman/multinli/) - Multi-Genre Natural Language Inference corpus
 * ⭐ [iSarcasm: A Dataset of Intended Sarcasm](https://github.com/silviu-oprea/iSarcasm) - iSarcasm is a dataset of tweets, each labelled as either sarcastic or non_sarcastic
+* ⭐ [SLTev](https://github.com/ELITR/SLTev) - tool for comprehensive evaluation of (simultaneous) spoken language translation [GitHub, 10 stars]
 
 ![The-NLP-Research](./Resources/Images/pandect_quill.png)
 -----
@@ -354,6 +357,12 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 
 ### Knowledge Graphs and NLP
 * 📙 [Fusing Knowledge into Language Model](https://drive.google.com/file/d/1Zgijg9RPxF-tIGWU9nt9rBcryOIB4lOk/view) [Presentation, Oct 2021]
+
+### Model Generation
+* ⭐ [smolmodels](https://pypi.org/project/smolmodels) - agentic framework for building ML models from natural language
+
+### Small LLMs
+* [smollm](https://github.com/huggingface/smollm/blob/main/text/README.md) - 3B parameter language model designed to push the boundaries of small models [GitHub, 3300 stars]
 
 
 ![The-NLP-Industry](./Resources/Images/pandect_industry.png)
@@ -685,6 +694,10 @@ Additionally, there are two more components that are not as prevalent for NLP an
 ### Hate Speech Analysis
 * ⭐ [HateXplain](https://github.com/hate-alert/HateXplain) - BERT for detecting abusive language [GitHub, 221 stars]
 
+### NLP & Security
+* ⭐ [vuln2vc](https://github.com/aissa302/vuln2vec) - domain-specific Word2Vec model for cybersecurity text mining and NLP research [GitHub, 1 stars]
+
+
 ![The-NLP-Frameworks](./Resources/Images/pandect_frameworks.png)
 -----
 > __Note__
@@ -735,7 +748,7 @@ Additionally, there are two more components that are not as prevalent for NLP an
 * ⭐ [Adapter Hub](https://github.com/Adapter-Hub/adapter-transformers) and its [documentation](https://docs.adapterhub.ml/index.html) - Adapter modules for Transformers [GitHub, 2774 stars]
 * ⭐ [haystack](https://github.com/deepset-ai/haystack) - Transformers at scale for question answering & neural search. [GitHub, 22959 stars]
 
-### Dialogue Systems and Speech
+### Dialogue Systems and Speech, Voice Agents
 * ⭐ [DeepPavlov](https://github.com/deepmipt/DeepPavlov) by MIPT [GitHub, 6934 stars]
 * ⭐ [ParlAI](https://github.com/facebookresearch/ParlAI) by FAIR [GitHub, 10620 stars]
 * ⭐ [rasa](https://github.com/RasaHQ/rasa) - Framework for Conversational Agents [GitHub, 20736 stars]
@@ -743,6 +756,7 @@ Additionally, there are two more components that are not as prevalent for NLP an
 * ⭐ [ChatterBot](https://github.com/gunthercox/ChatterBot) - conversational dialog engine for creating chatbots [GitHub, 14421 stars]
 * ⭐ [SpeechBrain](https://github.com/speechbrain/speechbrain) - open-source and all-in-one speech toolkit based on PyTorch [GitHub, 10542 stars]
 * ⭐ [dialoguefactory](https://github.com/smartinovski/dialoguefactory/tree/main) Generate continuous dialogue data in a simulated textual world [GitHub, 5 stars]
+* ⭐ [gabber](https://github.com/gabber-dev/gabber) AI applications that can see, hear, and speak using your screens, microphones [GitHub, 931 stars]
 
 ### Word/Sentence-embeddings oriented
 * ⭐ [MUSE](https://github.com/facebookresearch/MUSE) A library for Multilingual Unsupervised or Supervised word Embeddings [GitHub, 3224 stars]
@@ -785,6 +799,8 @@ Additionally, there are two more components that are not as prevalent for NLP an
 * ⭐ [DeepMatcher](https://github.com/anhaidgroup/deepmatcher) - Compute distance between sequences [GitHub, 605 stars]
 * ⭐ [RE2](https://github.com/alibaba-edu/simple-effective-text-matching) - Simple and Effective Text Matching with Richer Alignment Features [GitHub, 339 stars]
 * ⭐ [Machamp](https://github.com/megagonlabs/machamp) - Machamp: A Generalized Entity Matching Benchmark [GitHub, 21 stars]
+* ⭐ [bge-m3](https://huggingface.co/BAAI/bge-m3) - BGE-M3 hybrid retrieval + re-ranking [GitHub](https://github.com/FlagOpen/FlagEmbedding/tree/master/FlagEmbedding) [GitHub, 10700 stars]
+* 📙 [Cosine_Similarity_Explainer](https://huggingface.co/spaces/uumerrr684/Cosine_Similarity_Explainer) - Semantic Similarity Explainer with AI
 
 ### Discourse Analysis
 * ⭐ [ConvoKit](https://github.com/CornellNLP/Cornell-Conversational-Analysis-Toolkit) - Cornell Conversational Analysis Toolkit [GitHub, 605 stars]
@@ -943,6 +959,10 @@ Additionally, there are two more components that are not as prevalent for NLP an
 * ⭐ [pycorrector](https://github.com/shibing624/pycorrector) - spell correction for Chinese [GitHub, 6195 stars]
 * ⭐ [contractions](https://github.com/kootenpv/contractions) - Fixes contractions such as `you're` to you `are` [GitHub, 317 stars]
 * 📙 [Fine Tuning T5 for Grammar Correction](https://sachinruk.github.io/blog/2022-11-07-t5-for-grammar-correction.html) by Sachin Abeywardana [Blog, Nov 2022]
+
+#### PDF Parsing
+* ⭐ [spacy-layout](https://github.com/explosion/spacy-layout) - Process PDFs, Word documents and more with spaCy [GitHub, 772 stars]
+* ⭐ [bentopdf](https://github.com/alam00000/bentopdf) - A Privacy First PDF Toolkit [GitHub, 7 stars]
 
 #### Style Transfer for NLP
 * ⭐ [Styleformer](https://github.com/PrithivirajDamodaran/Styleformer) - Neural Language Style Transfer framework [GitHub, 488 stars]
