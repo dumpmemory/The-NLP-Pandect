@@ -395,6 +395,11 @@ Additionally, there are two more components that are not as prevalent for NLP an
 * ⭐ [awesome-mlops](https://github.com/visenger/awesome-mlops) [GitHub, 13923 stars]
 * ⭐ [best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) [GitHub, 23609 stars]
 
+#### Running LLMs locally or self-hosted
+* ⭐ [vLLM](https://github.com/vllm-project/vllm) [GitHub, 81616 stars]
+* ⭐ [llama.cpp](https://github.com/ggml-org/llama.cpp) [GitHub, 114160 stars]
+* 🔱 [ollama](https://ollama.com/) [Free Local & Paid Cloud Service]
+
 #### Reading Material
 * 📙 [Machine Learning Operations (MLOps): Overview, Definition, and Architecture](https://arxiv.org/abs/2205.02302) [Paper, May 2022]
 * 📙 [Requirements and Reference Architecture for MLOps:Insights from Industry](https://www.techrxiv.org/doi/full/10.36227/techrxiv.21397413.v1) [Paper, Oct 2022]
