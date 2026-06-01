@@ -117,7 +117,6 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 #### NLP History
 ##### General
 * ⭐ [Modern Deep Learning Techniques Applied to Natural Language Processing](https://github.com/omarsar/nlp_overview) [GitHub, 1322 stars]
-* 📙 [A Review of the Neural History of Natural Language Processing](https://aylien.com/blog/a-review-of-the-recent-history-of-natural-language-processing) [Blog, October 2018]
 ##### 2020 Year in Review
 * 📙 [Natural Language Processing in 2020: The Year In Review](https://www.linkedin.com/pulse/natural-language-processing-2020-year-review-ivan-bilan/) [Blog, December 2020]
 * 📙 [ML and NLP Research Highlights of 2020](https://www.ruder.io/research-highlights-2020/) [Blog, January 2021]
@@ -128,7 +127,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 [🔙 Back to the Table of Contents](https://github.com/ivan-bilan/The-NLP-Pandect#table-of-contents)
 #### NLP-only podcasts
 * 🎙️ [NLP Highlights](https://soundcloud.com/nlp-highlights) [Years: 2017 - now, Status: active]
-* 🎙️ [The NLP Zone](https://de.player.fm/series/the-nlp-zone) [Episodes](https://player.captivate.fm/episode/e2f87641-1421-4729-a2b5-d64951c845c6) [Years: 2021 - now, Status: active]
+* 🎙️ [The NLP Zone](https://open.spotify.com/show/5Q4ONkGcBPHWm2gzNTYt0P) [Years: 2021 - now, Status: active]
 
 #### Many NLP episodes
 * 🎙️ [TWIML AI](https://twimlai.com) [Years: 2016 - now, Status: active]
@@ -157,7 +156,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 ![The-NLP-Meetups](./Resources/Images/pandect_meetups.png)
 -----
 
-* 🎥 [NLP Zurich](https://www.linkedin.com/company/nlp-zurich/) [[YouTube Recordings](https://www.youtube.com/channel/UCLLX-5j9UNYassOwS0nveDQ)]
+* 🎥 NLP Zurich [[YouTube Recordings](https://www.youtube.com/channel/UCLLX-5j9UNYassOwS0nveDQ)]
 * 🎥 [Hacking-Machine-Learning](https://www.meetup.com/Hacking-Machine-Learning) [[YouTube Recordings](https://www.youtube.com/channel/UCt5RvrC-_3X7FNAWhORVn7Q)]
 * 🎥 [NY-NLP (New York)](https://www.meetup.com/NY-NLP/)
 
@@ -210,9 +209,6 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 
 ### Transformer Efficiency
 * ⭐ [Long-Range Arena](https://github.com/google-research/long-range-arena) - Long Range Arena for Benchmarking Efficient Transformers ([Pre-print](https://arxiv.org/abs/2011.04006)) [GitHub, 788 stars]
-
-### Speech Processing
-* ⭐ [SUPERB](http://superbbenchmark.org/) - Speech processing Universal PERformance Benchmark
 
 ### Other
 * ⭐ [CodeXGLUE](https://www.microsoft.com/en-us/research/blog/codexglue-a-benchmark-dataset-and-open-challenge-for-code-intelligence/) - A benchmark dataset for code intelligence
@@ -269,7 +265,6 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 * 📙 [The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html) by Harvard NLP [Blog, 2018]
 * 📙 [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/) by Jay Alammar [Blog, 2018]
 * 📙 [Illustrated Guide to Transformers](https://jinglescode.github.io/2020/05/27/illustrated-guide-transformer/) by Hong Jing [Blog, 2020]
-* 📙 [Sequential Transformer with Adaptive Attention Span](https://github.com/facebookresearch/adaptive-span) by Facebook. [Blog](https://ai.facebook.com/blog/making-transformer-networks-simpler-and-more-efficient/) [Blog, 2019]
 * 📙 [Evolution of Representations in the Transformer](https://lena-voita.github.io/posts/emnlp19_evolution.html) by Lena Voita [Blog, 2019]
 * 📙 [Reformer: The Efficient Transformer](https://ai.googleblog.com/2020/01/reformer-efficient-transformer.html) [Blog, 2020]
 * 📙 [Longformer — The Long-Document Transformer](https://medium.com/dair-ai/longformer-what-bert-should-have-been-78f4cd595be9) by Viktor Karlsson [Blog, 2020]
@@ -341,7 +336,6 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 
 #### Distillation, Pruning and Quantization
 ##### Reading Material
-* 📙 [Distilling knowledge from Neural Networks to build smaller and faster models](https://floydhub.ghost.io/knowledge-distillation/) by FloydHub [Blog, 2019]
 * 📙 [Compression of Deep Learning Models for Text: A Survey](https://arxiv.org/abs/2008.05221) [Paper, April 2021]
 ##### Tools
 * ⭐ [Bert-squeeze](https://github.com/JulesBelveze/bert-squeeze) - code to reduce the size of Transformer-based models or decrease their latency at inference time [GitHub, 85 stars]
@@ -400,7 +394,6 @@ Additionally, there are two more components that are not as prevalent for NLP an
 #### MLOps Compilations & Awesome Lists
 * ⭐ [awesome-mlops](https://github.com/visenger/awesome-mlops) [GitHub, 13923 stars]
 * ⭐ [best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) [GitHub, 23609 stars]
-* 🗂️ [MLOps.Toys](https://mlops.toys) - a curated list of MLOps projects
 
 #### Reading Material
 * 📙 [Machine Learning Operations (MLOps): Overview, Definition, and Architecture](https://arxiv.org/abs/2205.02302) [Paper, May 2022]
@@ -409,7 +402,6 @@ Additionally, there are two more components that are not as prevalent for NLP an
 * 📙 [Best MLOps Tools You Need to Know as a Data Scientist](https://neptune.ai/blog/best-mlops-tools)  by Neptune AI [Blog, July 2021]
 * 📙 [State of MLOps 2021](https://valohai.com/state-of-mlops/#introduction) by Valohai [Blog, August 2021]
 * 📙 [The MLOps Stack](https://valohai.com/blog/the-mlops-stack/) by Valohai [Blog, October 2020]
-* 📙 [Data Version Control for Machine Learning Applications](https://megagon.ai/blog/data-version-control-for-machine-learning-applications/) by Megagon AI [Blog, July 2021]
 * 📙 [The Rapid Evolution of the Canonical Stack for Machine Learning](https://medium.com/@ODSC/the-rapid-evolution-of-the-canonical-stack-for-machine-learning-21b37af9c3b5) [Blog, July 2021]
 * 📙 [MLOps: Comprehensive Beginner’s Guide](https://medium.com/sciforce/mlops-comprehensive-beginners-guide-c235c77f407f) [Blog, March 2021]
 * 📙 [What I’ve learned about MLOps from speaking with 100+ ML practitioners](https://veselinastaneva.medium.com/what-ive-learned-about-mlops-from-speaking-with-100-ml-practitioners-3025e33458ad) [Blog, May 2021]
@@ -429,7 +421,6 @@ Additionally, there are two more components that are not as prevalent for NLP an
 #### Data Versioning
 * ⭐ [DVC](https://dvc.org/) - Data Version Control (DVC) tracks ML models and data sets [Free and Open Source] [Link to GitHub](https://github.com/iterative/dvc)
 * 🔱 [Weights & Biases](https://wandb.ai/site) - tools for experiment tracking and dataset versioning [Paid Service]
-* 🔱 [Pachyderm](https://www.pachyderm.com/) - version control for data with the tools to build scalable end-to-end ML/AI pipelines [Paid Service with Free Tier]
 
 #### Experiment Tracking
 * ⭐ [mlflow](https://mlflow.org/) - open source platform for the machine learning lifecycle [Free and Open Source] [Link to GitHub](https://github.com/mlflow/mlflow/)
@@ -464,7 +455,6 @@ Additionally, there are two more components that are not as prevalent for NLP an
 * 🔱 [Valohai](https://valohai.com/) - End-to-end ML pipelines [Paid Service]
 * 🔱 [NLP Cloud](https://nlpcloud.com/) - Production-ready NLP API [Paid Service]
 * 🔱 [Saturn Cloud](https://saturncloud.io/) [Paid Service]
-* 🔱 [SELDON](https://www.seldon.io/solutions/open-source-projects) - machine learning deployment for enterprise [Paid Service]
 * 🔱 [Comet ML](https://www.comet.ml/site/) - enables data scientists and teams to track, compare, explain and optimize experiments and models [Paid Service]
 * 🔱 [polyaxon](https://polyaxon.com/) - reproduce, automate, and scale your data science workflows with production-grade MLOps tools [Paid Service]
 * ⭐ [TorchServe](https://github.com/pytorch/serve) - flexible and easy to use tool for serving PyTorch models [GitHub, 4359 stars]
@@ -609,7 +599,7 @@ Additionally, there are two more components that are not as prevalent for NLP an
 
 ### Blogs
 * 📙 [Topic Modelling with PySpark and Spark NLP](https://medium.com/trustyou-engineering/topic-modelling-with-pyspark-and-spark-nlp-a99d063f1a6e) by Maria Obedkova [Spark, Blog, 2020]
-* 📙 [A Unique Approach to Short Text Clustering (Algorithmic Theory)](https://towardsdatascience.com/a-unique-approach-to-short-text-clustering-part-1-algorithmic-theory-4d4fad0882e1) by Brittany Bowers [Blog, 2020]
+* 📙 [A Unique Approach to Short Text Clustering (Algorithmic Theory)](https://medium.com/data-science/a-unique-approach-to-short-text-clustering-part-1-algorithmic-theory-4d4fad0882e1) by Brittany Bowers [Blog, 2020]
 
 ### Frameworks for Topic Modeling
 * ⭐ [gensim](https://github.com/RaRe-Technologies/gensim) - framework for topic modeling [GitHub, 16421 stars]
@@ -880,12 +870,10 @@ Additionally, there are two more components that are not as prevalent for NLP an
 * 🎥️ [Stanford NLP Seminar](https://nlp.stanford.edu/seminar/) - slides from the Stanford NLP course
 
 #### Books
-* 📙 [Natural Language Processing with Transformers](https://www.buecher.de/shop/maschinelles-lernen/natural-language-processing-with-transformers/tunstall-lewis-von-werra-leandro-wolf-thomas/products_products/detail/prod_id/64140211/) - [Book, February 2022]
 * 📙 [Applied Natural Language Processing in the Enterprise](https://www.oreilly.com/library/view/applied-natural-language/9781492062561/) - [Book, May 2021]
 * 📙 [Practical Natural Language Processing](https://www.oreilly.com/library/view/practical-natural-language/9781492054047/) - [Book, June 2020]
 * 📙 [Dive into Deep Learning](https://d2l.ai/index.html) - An interactive deep learning book with code, math, and discussions
 * 📙 [Natural Language Processing and Computational Linguistics](https://www.amazon.de/Natural-Language-Processing-Computational-Linguistics/dp/1848218486) - Speech, Morphology and Syntax (Cognitive Science)
-* 📙 [Top NLP Books to Read 2020](https://towardsdatascience.com/top-nlp-books-to-read-2020-12012ef41dc1) - Blog post by Raymong Cheng [Blog, Sep 2020]
 
 #### Tutorials
 * ⭐ [nlp-tutorial](https://github.com/lyeoni/nlp-tutorial) - A list of NLP(Natural Language Processing) tutorials built on PyTorch [GitHub, 1374 stars]
@@ -990,7 +978,6 @@ Additionally, there are two more components that are not as prevalent for NLP an
 * ⭐ [TPOT](https://github.com/EpistasisLab/tpot) - Python Automated Machine Learning tool [GitHub, 10047 stars]
 * ⭐ [Auto-PyTorch](https://github.com/automl/Auto-PyTorch) - Automatic architecture search and hyperparameter optimization for PyTorch [GitHub, 2534 stars]
 * ⭐ [HungaBunga](https://github.com/ypeleg/HungaBunga) - Brute-Force all sklearn models with all parameters using .fit .predict [GitHub, 0 stars]
-* 🔱 [AutoML Natural Language](https://cloud.google.com/natural-language/automl/docs) - Google's paid AutoML NLP service
 * ⭐ [Optuna](https://github.com/optuna/optuna) - hyperparameter optimization framework [GitHub, 14280 stars]
 * ⭐ [FLAML](https://github.com/microsoft/FLAML) - fast and lightweight AutoML library [GitHub, 4360 stars]
 * ⭐ [Gradsflow](https://github.com/gradsflow/gradsflow) - open-source AutoML & PyTorch Model Training Library [GitHub, 307 stars]
